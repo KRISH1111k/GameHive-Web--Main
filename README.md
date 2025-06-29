@@ -1,66 +1,47 @@
-🎮 GameHive – Epic Games Made for True Gamers!
-Welcome to GameHive, a sleek, interactive, and fully responsive esports and gaming landing page template designed for gaming tournaments, match showcases, community blogs, and team engagement.
+🎮 GameHive – Modern Gaming Landing Page
+GameHive is a modern, fully responsive gaming and esports landing page template built using HTML, CSS, and JavaScript. It’s designed for gamers, streamers, gaming teams, or esports organizations to promote tournaments, share news, and grow their community.
 
-🧠 Built with HTML5, CSS3, and Vanilla JavaScript
-🎨 Styled for modern gamers with Oxanium and Work Sans fonts
-📱 Fully responsive across all screen sizes
+🌟 Features
+👾 Stylish animated hero banner
 
-🚀 Features
-🏠 Landing Section with animated hero banner and CTA
+🏆 Dynamic tournament section with match cards
 
-🏆 Upcoming Matches with team logos and real-time countdowns
+📰 Interactive news/blog updates
 
-📰 Gaming Blog/News Area for announcements and highlights
+📱 Mobile-friendly, responsive design
 
-🕹️ Tournament Roster Showcase
+🎯 Custom navigation bar & back-to-top button
 
-📲 Social Integration (YouTube, Twitch, Instagram)
+📬 Contact section & newsletter sign-up form
 
-📬 Newsletter Signup + Contact Footer
-
-🔁 Back to Top Button and Custom Cursor Animation
-
-📁 Folder Structure
-pgsql
-Copy
-Edit
-GameHive/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── index.html
-└── README.md
-📸 Screenshots
-
-📍 Want full screenshots? Check out the /screenshots folder (if added).
+🎮 Ready for integration with YouTube, Twitch, Instagram
 
 🧰 Tech Stack
 HTML5
 
 CSS3
 
-JavaScript
+Vanilla JavaScript
+
+Google Fonts (Oxanium, Work Sans)
 
 Ionicons
 
-Google Fonts
+📦 How to Use
+Clone or download this repository
 
-🧑‍💻 Author
-Developed by Tarun Krishna Padamati
-🔗 LinkedIn | 🌐 Portfolio | 📧 tarunkiller300@gmail.com
+Open index.html in your browser
 
-📌 How to Use
+Customize the content, styles, and links to fit your project
+
 bash
 Copy
 Edit
-# Clone this repository
-git clone https://github.com/KRISH1111k/GameHive.git
-
-# Open in browser
+git clone https://github.com/your-username/GameHive.git
+cd GameHive
 open index.html
-💡 No build step required — pure static HTML/CSS site.
-
-📄 License
-This project is open-source and available under the MIT License.
+🧑‍💻 Developer
+Built with ❤️ by Tarun Krishna Padamati
+📫 tarunkiller300@gmail.com
+🔗 LinkedIn | GitHub
 
